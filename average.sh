@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 number1=$(( RANDOM % 90 + 10 ))
 number2=$(( RANDOM % 90 + 10))
 number3=$(( RANDOM % 90 + 10 ))
